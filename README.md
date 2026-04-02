@@ -33,7 +33,7 @@ Check expiry date and remaining days for a domain.
 
 ```bash
 ./check-ssl-expiry.sh example.com
-
+```
 ---
 ## Cron Example 
 0 2 * * * /path/check-multiple-ssl.sh domains.txt
